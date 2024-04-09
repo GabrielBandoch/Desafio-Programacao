@@ -1,0 +1,15 @@
+{
+  "name": "desafio-estagio",
+  "version": "1.0.0",
+  "description": "Neste repositório, você encontrará minha solução para o desafio de programação proposto pela Target.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
