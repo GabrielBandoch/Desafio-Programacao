@@ -1,7 +1,5 @@
 # Desafio de Programação
 
-Neste repositório, você encontrará minha solução para o desafio de programação proposto pela Target.
-
 ## Desafios Propostos
 
 O desafio consiste em resolver dois problemas de programação:
